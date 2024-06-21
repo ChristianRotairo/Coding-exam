@@ -1,6 +1,13 @@
 # coding_exam
 
-A new Flutter project.
+## How To Run the App
+
+
+- Make sure you have all the requirements to run a flutter app
+- Open VS Code
+- Open emulator or run command to the project flutter build apk, this will build an apk readily to be installed and locate this with in the project "build\app\outputs\flutter-apk\app-release.apk"
+
+
 
 ## Getting Started
 
