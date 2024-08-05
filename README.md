@@ -1,4 +1,5 @@
-# coding_exam
+## API integration sample
+## GET Method 
 
 ## How To Run the App
 
